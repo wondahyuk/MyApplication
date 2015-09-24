@@ -66,4 +66,4 @@
         android:textColor="#FF0000"
         android:layout_margin="5dp"
         android:text="계산 결과: "/>
-</LinearLayout>
+ </LinearLayout>
